@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-crash-2024",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "license": "MIT",
+  "author": "Steffan Troxel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
